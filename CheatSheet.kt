@@ -10,6 +10,12 @@ import androidx.lifecycle.LifecycleEventObserver
 import androidx.navigation.compose.rememberNavController
 import kotlinx.coroutines.delay
 
+
+
+//--------------------
+//@author Mukul Jangir
+//--------------------
+
 @Composable
 fun CheatSheet(onTimeOut: () -> Unit){
 
